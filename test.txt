@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 wonderful
+=======
+small
+>>>>>>> origin
 world
