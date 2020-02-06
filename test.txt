@@ -1,7 +1,3 @@
 hello
-<<<<<<< HEAD
-wonderful
-=======
-small
->>>>>>> origin
+small, wonderful
 world
